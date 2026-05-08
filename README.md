@@ -32,7 +32,7 @@ The analysis is split into two outcomes:
 - Employment status (Employed, Unemployed, Continuing Education)
 - Annual salary (USD)
 
----
+----
 
 ## Descriptive Summary
 - Mean age: 30.5  
